@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+bin/
+obj/
+src/.clang/
+src/.codelite/
